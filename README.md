@@ -36,11 +36,11 @@ Imagem abaixo da execução dos testes através do jUnit Runner:
 
 Imagens do Javadoc gerado da classe Conta:
 
-![Imagem documentação Javadoc](repo-images/javadoc-1.jpg)
+![Imagem documentação Javadoc](repo-images/javadoc_1.jpg)
 
 <br>
 
-![Imagem documentação Javadoc](repo-images/javadoc-2.jpg)
+![Imagem documentação Javadoc](repo-images/javadoc_2.jpg)
 
 ## Printscreen da classe Conta
 
@@ -53,6 +53,4 @@ Imagens do Javadoc gerado da classe Conta:
 - Cucumber
 - JUnit
 
-## Desenvolvedores/Contribuintes
-
-- Matheus Monteiro Bueno
+## Desenvolvedor: Matheus Monteiro Bueno
